@@ -16,6 +16,7 @@ class ProductsController < ApplicationController
     else
       render :new
     end
+    # hello
   end
 
   private
